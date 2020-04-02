@@ -151,4 +151,5 @@ void forgot()
 void exit()
 {
 	cout<<"\nOkay...Its your Choice..!!";
+	getch();
 }
